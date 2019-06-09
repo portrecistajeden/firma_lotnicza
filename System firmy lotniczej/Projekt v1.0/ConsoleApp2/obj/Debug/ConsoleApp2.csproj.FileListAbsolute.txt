@@ -1,0 +1,119 @@
+C:\Users\123\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\123\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\123\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\123\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\123\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\123\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Studia\II semestr\PO\Projekt\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\123\Desktop\Studia\II semestr\PO\Projekt\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Studia\II semestr\PO\Projekt\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Studia\II semestr\PO\Projekt\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Studia\II semestr\PO\Projekt\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Studia\II semestr\PO\Projekt\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Studia\II semestr\PO\Projekt\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.02\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\123\Desktop\Projekt v0.02\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.02\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.02\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Projekt v0.02\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Projekt v0.02\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.02\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.03\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.03\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.03\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.03\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.03\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.03\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.03\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.0472137\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.0472137\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.0472137\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.0472137\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.0472137\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.0472137\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Piotr\Desktop\projekt\Nowy folder\Projekt v0.0472137\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.0472137\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\123\Desktop\Projekt v0.0472137\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.0472137\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.0472137\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Projekt v0.0472137\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Projekt v0.0472137\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.0472137\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.05\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\123\Desktop\Projekt v0.05\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.05\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.05\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Projekt v0.05\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Projekt v0.05\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.05\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Piotr\Desktop\projekt\Projekt v0.06\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Piotr\Desktop\projekt\Projekt v0.06\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Piotr\Desktop\projekt\Projekt v0.06\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Piotr\Desktop\projekt\Projekt v0.06\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\projekt\Projekt v0.06\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\projekt\Projekt v0.06\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Piotr\Desktop\projekt\Projekt v0.06\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.8binsave\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\123\Desktop\Projekt v0.8binsave\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.8binsave\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.8binsave\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Projekt v0.8binsave\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Projekt v0.8binsave\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.8binsave\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.8binsave — kopia\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\123\Desktop\Projekt v0.8binsave — kopia\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.8binsave — kopia\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.8binsave — kopia\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Projekt v0.8binsave — kopia\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Projekt v0.8binsave — kopia\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.8binsave — kopia\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.9\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\123\Desktop\Projekt v0.9\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.9\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.9\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Projekt v0.9\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Projekt v0.9\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.9\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.997\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Projekt v0.997\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Projekt v0.997\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.997\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v0.997\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\123\Desktop\Projekt v0.997\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v0.997\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Piotr\Desktop\projekt\Projekt v0.998\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Piotr\Desktop\projekt\Projekt v0.998\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Piotr\Desktop\projekt\Projekt v0.998\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Piotr\Desktop\projekt\Projekt v0.998\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\projekt\Projekt v0.998\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\projekt\Projekt v0.998\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Piotr\Desktop\projekt\Projekt v0.998\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+G:\temp\Projekt v0.999\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+G:\temp\Projekt v0.999\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+G:\temp\Projekt v0.999\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+G:\temp\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+G:\temp\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+G:\temp\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+G:\temp\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\AdriannaJK\Desktop\Projekt v0.999\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\AdriannaJK\Desktop\Projekt v0.999\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\AdriannaJK\Desktop\Projekt v0.999\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\AdriannaJK\Desktop\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\AdriannaJK\Desktop\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\AdriannaJK\Desktop\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\AdriannaJK\Desktop\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Piotr\Desktop\projekt\Projekt v0.999\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Piotr\Desktop\projekt\Projekt v0.999\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Piotr\Desktop\projekt\Projekt v0.999\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Piotr\Desktop\projekt\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\projekt\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\projekt\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Piotr\Desktop\projekt\Projekt v0.999\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v1.0\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\123\Desktop\Projekt v1.0\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v1.0\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\123\Desktop\Projekt v1.0\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Projekt v1.0\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Projekt v1.0\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\123\Desktop\Projekt v1.0\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
